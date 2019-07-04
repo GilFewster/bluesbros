@@ -1,0 +1,2196 @@
+{
+  "panels": [
+    { "location": { "title": "WALKING THROUGH THE PRISON", "img": "" } },
+    { "action": { "description": "Jake is escorted by two Guards down a jail hall.", "img": "" } },
+    { "dialogue": { "speaker": "PRISONER", "text": "Hey!!" } },
+    { "location": { "title": "IN THE PAROLE OFFICE", "img": "" } },
+    { "dialogue": { "speaker": "GUARD ONE", "text": "Well, this is it." } },
+    { "action": { "description": "He opens the door and all three of them enter the room.", "img": "" } },
+    { "dialogue": { "speaker": "GUARD TWO", "text": "What wing?" } },
+    { "dialogue": { "speaker": "GUARD ONE", "text": "Maximum wing, block 9." } },
+    { "dialogue": { "speaker": "GUARD TWO", "text": "Standard release?" } },
+    { "dialogue": { "speaker": "GUARD ONE", "text": "Parole, 3 out of 5, good behaviour." } },
+    { "dialogue": { "speaker": "GUARD TWO", "text": "Gimme a minute..." } },
+    { "action": { "description": "He gets Jake's belongings.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "GUARD TWO",
+        "text": "One Timex digital watch, broken. One unused prophylactic. One soiled."
+      }
+    },
+    { "action": { "description": "Outside view of Elwood pulling up to the jail entrance.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "GUARD TWO",
+        "text": "One black suit jacket. One pair of black suit pants. One hat, black. One pair of sunglasses. Twenty three dollars and seven cents. Sign here."
+      }
+    },
+    { "action": { "description": "Jake signs an X on the form.", "img": "" } },
+    { "action": { "description": "Opening Credits start rolling.", "img": "" } },
+    { "song": { "title": "She Caught the Katy", "img": "" } },
+    { "location": { "title": "JAKE AND ELWOOD IN THE CAR", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "What's this?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "What?" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "This car. This stupid car. Where's the Cadillac? The Caddy? Where's the Caddy?"
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "The what?" } },
+    { "dialogue": { "speaker": "JAKE", "text": "The Cadillac we used to have. The Blues Mobile!" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "I traded it." } },
+    { "dialogue": { "speaker": "JAKE", "text": "You traded the Blues Mobile for this?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "No. For a microphone." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "A microphone? Okay I can see that. Well, what the hell is this?"
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "This was a bargain. I picked it up at the Mount Prospect City Police auction last spring. It's an old Mount Prospect Police Car. They were practically giving them away."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Well, thank you pal, the day I get out of prison, my own brother picks me up in a police car."
+      }
+    },
+    { "action": { "description": "Fog horn and warning bell sounds.", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "You don't like it?" } },
+    { "dialogue": { "speaker": "JAKE", "text": "No, I don't like it." } },
+    { "action": { "description": "Elwood drives over a raising draw bridge.", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Cars got a lot of pick up." } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "It's got a cop motor, a four hundred and forty cubic inch plant, it's got cop tires, cop suspension, cop shocks, it was a model made before catalytic converters so it'll run good on regular gas. Whaddya say? Is it the new Blues Mobile or what?"
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Fix the cigarette lighter." } },
+    { "location": { "title": "OUTSIDE THE ORPHANAGE", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "What are we doing here?" } },
+    {
+      "dialogue": { "speaker": "ELWOOD", "text": "You promised you'd visit the penguin the day you got out." }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Yeah? So, I lied to her." } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "You can't lie to a nun. We gotta go in and visit the penguin."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "No fucking way!" } },
+    { "location": { "title": "THE ORPHANAGE", "img": "" } },
+    {
+      "action": {
+        "description": "Jake and Elwood go in and climb the stairs until they reach a door. Just before Elwood knocks on the door, a voice is heard from inside.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "NUN", "text": "Who is it?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Jake and Elwood." } },
+    { "dialogue": { "speaker": "NUN", "text": "Come in." } },
+    { "action": { "description": "They go in. The door shuts behind them.", "img": "" } },
+    { "dialogue": { "speaker": "NUN", "text": "Hello boys, nice to see you. Please, have a seat." } },
+    { "action": { "description": "Jack and Elwood sit on seats at back of room.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "NUN",
+        "text": "No no boys. Come over here in front of me. I want to see your faces."
+      }
+    },
+    { "action": { "description": "They shuffle up a bit closer.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "NUN",
+        "text": "The county took a tax assessment of this property last month. They want five thousand dollars."
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Doesn't the church have to pay that?" } },
+    {
+      "dialogue": {
+        "speaker": "NUN",
+        "text": "They would if they were interested in keeping the place, but they aren't. The Arch Bishop wants to sell this building outright to the board of Education."
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "What's gonna happen to you?" } },
+    { "dialogue": { "speaker": "NUN", "text": "I'll be sent to the missions." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Forget it, five grand; no problem, we'll have it for you in the morning. Let's go Elwood."
+      }
+    },
+    { "dialogue": { "speaker": "NUN", "text": "No! No! I will not take your filthy stolen money." } },
+    { "dialogue": { "speaker": "JAKE", "text": "Well then, I guess you're really up shit creek." } },
+    { "action": { "description": "The nun hits Jake on the hand with a ruler.", "img": "" } },
+    { "dialogue": { "speaker": "NUN", "text": "I beg your pardon what did you say?" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "I offered to help you. You refused to take our money, then I said 'I guess you're really up shit creek'"
+      }
+    },
+    { "action": { "description": "She hit's him again.", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Christ Jake take it easy, man" } },
+    { "dialogue": { "speaker": "NUN", "text": "Elwood!" } },
+    { "action": { "description": "She starts hitting them both as the language deteriorates.", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Ah you fat penguin!" } },
+    {
+      "action": {
+        "description": "The ruler breaks and the Nun reaches for a sword. Jake and Elwood go tumbling down the stairs.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "NUN",
+        "text": "You are such a disappointing pair. I prayed so hard for you. It saddens and hurts me that the two young men whom I raised to believe in the ten commandments have returned to me as two thieves, with filthy mouths and bad attitudes. Get out! And don't come back until you've redeemed yourselves."
+      }
+    },
+    {
+      "action": {
+        "description": "She disappears back into her office and the door mysteriously closes.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "CURTIS",
+        "text": "Boys, you gotta learn not to talk to nuns that way. Jake! Elwood!"
+      }
+    },
+    { "dialogue": { "speaker": "JAKE & ELWOOD", "text": "Curtis!" } },
+    { "dialogue": { "speaker": "CURTIS", "text": "Hey, buy you boys a drink?" } },
+    { "location": { "title": "CURTIS'S KITCHEN", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "CURTIS",
+        "text": "Boys, things are bad. They're gonna sell this place to the board of education and I'll be out on the street. That money's gotta be in the Cook County Assessors office within 11 days."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "They wouldn't turn you out would they?" } },
+    {
+      "dialogue": {
+        "speaker": "CURTIS",
+        "text": "Shit. What's one more old nigger to the board of education?"
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Curtis, you and the penguin are the the only family we got. And you're the only one that was ever good to us. Singing Elmore James tunes and blowing the harp for us down here."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "CURTIS",
+        "text": "Well, the sister was right. You boys could use a little churching up. Slide on down to the Triple Rock and catch Reverend Cleophis. You boys listen to what he's got to say."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Curtis, I don't wanna listen to no jive ass preacher talking to me about heaven and hell."
+      }
+    },
+    { "dialogue": { "speaker": "CURTIS", "text": "Jake, you get wise! You get to church!" } },
+    { "location": { "title": "AT THE TRIPLE ROCK CHURCH", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "MC",
+        "text": "And now, this weeks sermon is from our beloved the Reverend Cleophis James."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "REVEREND JAMES",
+        "text": "And now people. And now people. When I woke up this morning, I heard a disturbing sound. I said, when I woke up this morning I heard a disturbing sound. What I heard was the jingle-jangle of a thousand lost souls."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "REVEREND JAMES",
+        "text": "And I'm talking about the souls of all the men and women, departed from this life. Wait a minute, the Lord says the souls of us here on earth is, secret of divine life, they'll not find."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "REVEREND JAMES",
+        "text": "Because it's too late... Too late yeah, too late for them to ever see again, the light they once chose not to follow, don't be lost when the time comes. For the day of the Lord cometh, out of deep in the night. Amen. Amen."
+      }
+    },
+    { "song": { "title": "The Old Landmark", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Jake, you alright?" } },
+    { "action": { "description": "Ray of sunlight shines through the church onto Jake.", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "The band..." } },
+    { "dialogue": { "speaker": "JAKE", "text": "(louder) The band..." } },
+    { "dialogue": { "speaker": "REVEREND JAMES", "text": "Do you see the light?" } },
+    { "dialogue": { "speaker": "JAKE", "text": "(louder) The band!" } },
+    { "dialogue": { "speaker": "REVEREND JAMES", "text": "Do you see the light?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "What light?" } },
+    { "dialogue": { "speaker": "REVEREND JAMES", "text": "Have you seen the light?" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Yes, Yes! Jesus H. god damned bastard Christ, I have seen the light!"
+      }
+    },
+    { "action": { "description": "Jake starts dancing with the others.", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "The band Elwood. The band!" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "The band?... The band. The band? The band!" } },
+    { "dialogue": { "speaker": "REVEREND JAMES", "text": "Praise God." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "And God bless the United States of America." } },
+    { "location": { "title": "JAKE AND ELWOOD, IN THEIR CAR", "img": "" } },
+    { "song": { "title": "Soothe me", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "We'll put the band back together, do a few gigs, we get some bread. Bang! Five thousand bucks."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Yeah, well, getting the band back together might not be that easy."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "What're you talking about?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "They split, they all took straight jobs." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Yeah so you know where they are. You said you were gonna keep in touch with them"
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "I got a coupla leads, a few phone numbers, but I mean, how many of them visited or even wrote you huh?"
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "They're not the kinda guys who write letters. You were outside, I was inside, you were s'posed to keep in touch with the band. I kept asking you if we were gonna play again."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Well, what was I gonna do? Take away you're only hope? Take away the very thing that kept you going in there? I took the liberty of bullshitting you, okay?"
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "You lied to me." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "It wasn't lies, it was just bullshit." } },
+    {
+      "action": {
+        "description": "Jake and Elwood are in the car, and go through a yellow traffic light. Police lights flash in the rear view mirror.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Shit!" } },
+    { "dialogue": { "speaker": "JAKE", "text": "What?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Rollers." } },
+    { "dialogue": { "speaker": "JAKE", "text": "No?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Yeah." } },
+    { "dialogue": { "speaker": "JAKE", "text": "Shit." } },
+    {
+      "action": {
+        "description": "Elwood pulls over as directed and an officer approaches the car.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "What? What did I do?" } },
+    { "dialogue": { "speaker": "OFFICER DANIEL", "text": "You failed to stop at a red signal." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "The light was yellow sir." } },
+    { "dialogue": { "speaker": "OFFICER DANIEL", "text": "May I see your license please?" } },
+    { "action": { "description": "He takes the license back to the squad car.", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Goddamnit!" } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Man I haven't been pulled over in six months. I bet those cops have got SCMODS."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "SCMODS?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "State, County, Municipal, Offender, Data, System." } },
+    { "action": { "description": "The two officers return to Jake and Elwood's car.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "OFFICER DANIEL",
+        "text": "Elwood, we show your license currently under suspension. Step out of the car please."
+      }
+    },
+    {
+      "action": {
+        "description": "Elwood starts the car and drives off. The officers run back to their car and follow.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "First you trade the Caddilac for a microphone, then you lie to me about the band, now you're gonna put me right back in the joint."
+      }
+    },
+    {
+      "dialogue": { "speaker": "ELWOOD", "text": "They're not gonna catch us. We're on a mission from God." }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Elwood!" } },
+    {
+      "dialogue": {
+        "speaker": "OFFICER MOUNT",
+        "text": "(into CB) We are in high speed pursuit northbound on Cortlen Avenue. Black and white 1974 Dodge sedan with Illinios plates. Request assistance."
+      }
+    },
+    { "action": { "description": "Elwood turns into a parking lot. Officers pursue.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "It would be alright if we could just get back on the expressway."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "This don't look like no expressway to me!" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Don't yell at me." } },
+    { "dialogue": { "speaker": "JAKE", "text": "What the hell do you want me to do motorhead?" } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Well, try not to be so negative all the time. Why don't you offer some constructive criticism?"
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "You got us into this parking lot pal, so you get us out." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "You want outta this parking lot? Okay." } },
+    { "location": { "title": "INSIDE SHOPPING MALL, 'TOYS R US'", "img": "" } },
+    { "dialogue": { "speaker": "SHOP LADY", "text": "Will there be anything else?" } },
+    { "dialogue": { "speaker": "CUSTOMER", "text": "Yes, do you have a Miss Piggy?" } },
+    {
+      "action": {
+        "description": "Car speeds through toystore and continues on through the rest of the mall. Two Squad cars follows, the original and a backup.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Hanson Burgers." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Yeah. Lots of space in this mall." } },
+    { "dialogue": { "speaker": "JAKE", "text": "Disco dancing hair cuts." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Yeah. Baby clothes." } },
+    { "dialogue": { "speaker": "JAKE", "text": "This place has got everything." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "New Oldsmobiles are in early this year." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Pier One Imports." } },
+    { "dialogue": { "speaker": "BACKUP OFFICERS", "text": "Oh Shit!" } },
+    { "action": { "description": "Backup squad car lands on it's roof and stops.", "img": "" } },
+    { "dialogue": { "speaker": "BACKUP OFFICER", "text": "They broke my watch!" } },
+    { "action": { "description": "First squad car crashes too.", "img": "" } },
+    { "action": { "description": "Jake and Elwood escape through a shop window to outside.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "OFFICER MOUNT",
+        "text": "I'm gonna catch that sucker, if it's the last thing I ever do!"
+      }
+    },
+    { "song": { "title": "Peter Gunn Theme", "img": "" } },
+    { "location": { "title": "OUTSIDE ELWOODS PLACE", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Nice place, huh?" } },
+    {
+      "action": {
+        "description": "Mystery Women blows up the front doors with a rocket launcher.",
+        "img": ""
+      }
+    },
+    { "action": { "description": "Jake and Elwood recover and go inside.", "img": "" } },
+    {
+      "dialogue": { "speaker": "ELWOOD", "text": "Hey Sam... Hey Lloyd, anybody call for me on the phone?" }
+    },
+    {
+      "dialogue": {
+        "speaker": "LLOYD",
+        "text": "No, no calls. Some guy left this card. Cop. Said he'd be back."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "This here's my brother Jake. He just got outta the joint. He's gonna be staying with me for a few weeks."
+      }
+    },
+    { "dialogue": { "speaker": "LLOYD", "text": "Oh OK..." } },
+    { "dialogue": { "speaker": "OLD MAN", "text": "Did you get me my cheese whiz, Boy?" } },
+    { "action": { "description": "Elwood tosses a can of Cheeze Whiz to the old man.", "img": "" } },
+    { "location": { "title": "ELWOODS ROOM", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Well, it ain't much, but it's home." } },
+    { "dialogue": { "speaker": "JAKE", "text": "How often does the train go by?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "So often you won't even notice it." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "How you gonna get the band back together, Mr Hot-Roder? The cops got your name, you address."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "No, they don't got my address. I falsified my renewal. Put down 1060 West Addison."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "1060 West Addison? That's Wrigley Field." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "I gotta hit the sack." } },
+    { "action": { "description": "Notices Jake asleep in his bed.", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Hey you sleaze, my bed!" } },
+    { "action": { "description": "Elwood sleeps in a chair.", "img": "" } },
+    { "location": { "title": "THE NEXT MORNING", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "MERCER",
+        "text": "This, gentlemen, is the elegant abode of one Elwood Blues."
+      }
+    },
+    { "dialogue": { "speaker": "OFFICER MOUNT", "text": "Thanks for your help Mr Mercer." } },
+    { "dialogue": { "speaker": "MERCER", "text": "You know, I kinda liked the Wrigley Field bit." } },
+    { "dialogue": { "speaker": "OFFICER MOUNT", "text": "Yeah, real cute." } },
+    { "action": { "description": "They enter the building and go to Elwoods door.", "img": "" } },
+    { "dialogue": { "speaker": "MERCER", "text": "Stand back." } },
+    {
+      "action": {
+        "description": "As Mr. Mercer kicks the door in, the Mystery Woman flicks the switch on her remote control, and the whole building blows up. Jake and Elwood get up and brush themselves off.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "It's almost nine o'clock. We gotta go to work." } },
+    { "location": { "title": "MRS. TORANTINO'S HOUSE", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Mrs. Toronto?" } },
+    { "dialogue": { "speaker": "MRS. TORANTINO", "text": "Torantino." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Ma'am, do you have a Thomas Malone or Louis Marini living here?"
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "MRS. TORANTINO",
+        "text": "Not any more they moved out a long time ago. I don't take in borders, not for a long time."
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "May we come in ma'am?" } },
+    { "dialogue": { "speaker": "MRS. TORANTINO", "text": "Please." } },
+    { "action": { "description": "They enter.", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Did they leave a forwarding address? A phone number?" } },
+    { "dialogue": { "speaker": "MRS. TORANTINO", "text": "No." } },
+    {
+      "dialogue": { "speaker": "ELWOOD", "text": "Did they live quietly? What were there personal habits?" }
+    },
+    {
+      "dialogue": {
+        "speaker": "MRS. TORANTINO",
+        "text": "They were good boys, but they made a lot of racket at night. Are you the police?"
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "No ma'am. We're musicians." } },
+    {
+      "action": {
+        "description": "They return to the car and prepare to leave. Mrs Torantino chases them.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "MRS. TORANTINO", "text": "Mr. Man! Mr. Man! Mr. Man!" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Yes, ma'am?" } },
+    { "dialogue": { "speaker": "MRS. TORANTINO", "text": "They left this card, maybe it help you?" } },
+    { "location": { "title": "THE HOLIDAY INN – THE ARMADA ROOM", "img": "" } },
+    {
+      "action": {
+        "description": "Murph and the Magic Tones are playing to an almost empty room.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "MURPH",
+        "text": "Thank you. Your marvellous. Your marvellous. Thank you. I'm Murph and these are the Magic Tones. Steve 'The colonel' Cropper, Donald Duck Dunn, Willie 'Too Big' Hall and Tom 'Bones' Malone. We'll be back with the Magic Tones for the Armada Room's two hour disco swing party after this short break. Til then, don't you go changing."
+      }
+    },
+    { "action": { "description": "They all meet Jake and Elwood at one of the tables.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "WILLIE",
+        "text": "So Jake, you're out, you're free, you're rehabilitated, what's next what's happening, whatcha gonna do? You got the money you owe us motherfucker?"
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Look let's just get something straight here. The reason he got locked in the slammer in the first place was for sticking up a gas station to cover you guys."
+      }
+    },
+    { "dialogue": { "speaker": "MURPH", "text": "You're kidding!" } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "He pulled that job to pay for the bands room service tab from that Chiwanous gig in Pols city."
+      }
+    },
+    { "dialogue": { "speaker": "WILLIE", "text": "He did?" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "That's right, so I don't wanna hear anymore of this small change shit."
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "We're putting the band back together." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "You were the backbone. The nerve centre of a great rhythm and blues band. You can, make that live, breath and jump again. Murph and the Magic tones? Look at you in those candy ass monkey suits. And I thought I had it bad in Joliet."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "TOM",
+        "text": "At least we got a change in clothes sucker, you're wearing the same shit you had on three years ago."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "STEVE",
+        "text": "Jake ain't lying though. We had a band powerful enough to turn goat piss into gasoline."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "WILLIE",
+        "text": "But we'll never get that fab sound again, not without some more horns. We'll never get Mr. Fabulous."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Where is he?" } },
+    {
+      "dialogue": {
+        "speaker": "MURPH",
+        "text": "Forget it. Mr Fabulous is the top Matre 'd at the Chez Paul. He's pulling down six bills a week."
+      }
+    },
+    { "dialogue": { "speaker": "TOM", "text": "Yeah and Matt Murphy up and got himself married." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Where is Matt guitar Murphy?" } },
+    {
+      "dialogue": {
+        "speaker": "TOM",
+        "text": "He opened a soul food restaurant with his old lady on Maxwell Street, and he took Blue Lou with him."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "WILLIE",
+        "text": "You'll never get Matt and Mr Fabulous outta them high paying gigs."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Oh yeah? Well me and the Lord. We got an understanding." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "We're on a mission from God." } },
+    { "location": { "title": "CHEZ PAUL RESTAURANT", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "MR. FABULOUS",
+        "text": "(into phone) Mainly French cuisine. No sir, Mayor Daly no longer dines here. He's dead sir. Private dining rooms are available."
+      }
+    },
+    { "action": { "description": "He sees Jake walk in with Elwood.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "MR. FABULOUS",
+        "text": "Oh no! I thought it was supposed to be five years. Didn't you get five years?"
+      }
+    },
+    { "action": { "description": "Back into the phone.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "MR. FABULOUS",
+        "text": "Ah no sir, not you. And your name sir? Ritsolo for eight at 11:30. Thank you."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Mr. Fabulous, how marvellous it is to see you. You're looking younger than ever."
+      }
+    },
+    { "dialogue": { "speaker": "MR. FABULOUS", "text": "Wait, you guys can't come in here." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Nonsense my dear fellow, my brother and I have come to dine to celebrate my early release from the service of the state."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "MR. FABULOUS",
+        "text": "Wait, let's talk outside. Let's have a cup of coffee outside."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Why heavens no! We seek a full meal and all the compliments of the house. Come Elwood let us adjourn ourselves to the nearest table and overlook this establishments board of fare."
+      }
+    },
+    { "action": { "description": "They enter the dining room as the phone rings.", "img": "" } },
+    { "dialogue": { "speaker": "MR. FABULOUS", "text": "(into phone) Good evening, Chez Paul." } },
+    { "action": { "description": "Now talking to Jake and Elwood.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "MR. FABULOUS",
+        "text": "Wait! Hey! (into phone) Ah, sir, would you mind calling back in about five minutes please?"
+      }
+    },
+    {
+      "action": {
+        "description": "Jake and Elwood seat themselves at a table. At reception two customers have missed out on their table.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "MR. FABULOUS",
+        "text": "(to the couple who missed out on the table) I'm sure we'll have a table for you in just a few minutes."
+      }
+    },
+    {
+      "action": { "description": "Jake and Elwood are ignored until Jake whistles very loudly.", "img": "" }
+    },
+    { "dialogue": { "speaker": "MR. FABULOUS", "text": "(to customers) Excuse me, won't you?" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Give us a bottle of your finest champagne, five shrimp cocktails, and some bread for my brother."
+      }
+    },
+    { "dialogue": { "speaker": "WAITER", "text": "We have a Don Perignon '71 at $120." } },
+    { "dialogue": { "speaker": "JAKE", "text": "That'll be fine pal." } },
+    {
+      "dialogue": {
+        "speaker": "MR. FABULOUS",
+        "text": "Come on, seriously you guys, the food here is really expensive. The soup is fucking ten dollars. Come on let's go outside. I'll buy you a cup of coffee."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "We're putting the band back together." } },
+    { "dialogue": { "speaker": "MR. FABULOUS", "text": "Forget it. No way." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "We're on a mission from god." } },
+    { "action": { "description": "Jake and Elwood's food arrives.", "img": "" } },
+    { "dialogue": { "speaker": "MR. FABULOUS", "text": "Hold it, Hold it. What's this?" } },
+    { "dialogue": { "speaker": "CUSTOMER", "text": "Waiter! Sir! Please, waiter!" } },
+    { "dialogue": { "speaker": "MR. FABULOUS", "text": "Yes sir. How are your salads?" } },
+    {
+      "dialogue": {
+        "speaker": "CUSTOMER",
+        "text": "The salads are fine. It's just that, we'd.. we'd like to move to another table, away from those two gentlemen."
+      }
+    },
+    { "dialogue": { "speaker": "MR. FABULOUS", "text": "Why? Have they been disturbing you?" } },
+    {
+      "dialogue": {
+        "speaker": "CUSTOMER",
+        "text": "No. It's just that.. well frankly, they're offensive. Smelling. I mean they smell bad."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "MR. FABULOUS",
+        "text": "Excuse me sir, I'll see if I can locate another table for you."
+      }
+    },
+    { "dialogue": { "speaker": "CUSTOMER", "text": "Thank you." } },
+    {
+      "action": {
+        "description": "Jake and Elwoods wine arrives. The wine waiter attempts to serve it.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "WAITER", "text": "Wrong glass, sir." } },
+    { "action": { "description": "Jake moves over to the Customers table.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "How much for the little girl? The women? How much for the women?"
+      }
+    },
+    { "dialogue": { "speaker": "CUSTOMER", "text": "What?" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Your women. I want to buy your women. The little girl, your daughters. Sell them to me. Sell me your children!"
+      }
+    },
+    { "dialogue": { "speaker": "CUSTOMER", "text": "Maitre'd'! Maitre'd!" } },
+    {
+      "dialogue": {
+        "speaker": "MR. FABULOUS",
+        "text": "(to Jake) Cut it out. Cut it out. The owners are gonna ask me to call the cops."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "You wouldn't do that to me would ya man?" } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "He just got outta Jolliet, he's on parole. You can't call the cops on him man."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "We're putting the band back together." } },
+    { "dialogue": { "speaker": "MR. FABULOUS", "text": "I said no. Absolutely not." } },
+    { "dialogue": { "speaker": "JAKE", "text": "(to customer) Yo! How much for your wife?" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "(to Mr. Fabulous) We're putting the band back together. We need ya man, we need your horn."
+      }
+    },
+    { "dialogue": { "speaker": "MR. FABULOUS", "text": "I can't, I really can't." } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "We got everybody but Matt guitar Murphy and Blue Lou and we're getting them next."
+      }
+    },
+    { "dialogue": { "speaker": "MR. FABULOUS", "text": "No way." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "If you say no, Elwood and I will come here for breakfast, lunch and dinner every day of the week."
+      }
+    },
+    { "dialogue": { "speaker": "MR. FABULOUS", "text": "Okay, okay, I'll play. You got me." } },
+    {
+      "action": {
+        "description": "Jake and Elwood leaves. Mr. Fabulous sits down at their table.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "CUSTOMER", "text": "Sir? Sir. Sir. Sir! Sir?" } },
+    { "location": { "title": "NAZI DEMONSTRATION", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "NAZI LEADER",
+        "text": "White Men! White women! The swastika is calling you. The Jew is using the black as muscle against you. And you are left there helpless. Well, what are you going to do about it, whitey? Just sit there? Of course not. You, are going to join with us. The members of the American, Socialist, White peoples party. An organisation of decent, law abiding white folk. Just like you. I pledge allegiance to Adolf Hitler."
+      }
+    },
+    { "dialogue": { "speaker": "NAZIS", "text": "I pledge allegiance to Adolf Hitler." } },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "The immortal leader of our race." } },
+    { "dialogue": { "speaker": "NAZIS", "text": "The immortal leader of our race." } },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "And to the order for which he stands." } },
+    { "dialogue": { "speaker": "NAZIS", "text": "And to the order for which he stands." } },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "One great cause." } },
+    { "dialogue": { "speaker": "NAZIS", "text": "One great cause." } },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "Sacred and invincible." } },
+    { "dialogue": { "speaker": "NAZIS", "text": "Sacred and invincible." } },
+    {
+      "action": {
+        "description": "Jake and Elwood are caught in a traffic jam caused by the Nazis.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "(to a patrolling Officer) Hey, what's going on?" } },
+    {
+      "dialogue": {
+        "speaker": "OFFICER",
+        "text": "Ah, those bums won there court case so their marching today."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "What bums?" } },
+    { "dialogue": { "speaker": "OFFICER", "text": "The fucking Nazi party." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Illinios Nazis!" } },
+    { "dialogue": { "speaker": "JAKE", "text": "I hate Illinios Nazis." } },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "Heil Hitler!" } },
+    { "dialogue": { "speaker": "NAZIS", "text": "Heil Hitler!" } },
+    {
+      "action": { "description": "Elwood drives the car up to the bridge and towards the Nazis.", "img": "" }
+    },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "Tenhuit!" } },
+    {
+      "action": {
+        "description": "Elwood speeds up. The Nazis are forced to jump into the water below.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "Perpen Fuhrer?" } },
+    { "dialogue": { "speaker": "PERPEN FUHRER", "text": "Yes Sir!" } },
+    {
+      "dialogue": {
+        "speaker": "NAZI LEADER",
+        "text": "Perpen Fuhrer get that cars licence plate number. We're gonna kill that son of a bitch."
+      }
+    },
+    { "location": { "title": "SOUL FOOD CAFE", "img": "" } },
+    { "action": { "description": "Jake and Elwood enter and sit at the counter.", "img": "" } },
+    { "dialogue": { "speaker": "ARETHA", "text": "Help you boys?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "You got any white bread?" } },
+    { "dialogue": { "speaker": "ARETHA", "text": "Yes." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "I'll have some toasted white bread please." } },
+    { "dialogue": { "speaker": "ARETHA", "text": "You want butter or jam on that toast honey?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "No ma'am, dry." } },
+    { "dialogue": { "speaker": "JAKE", "text": "You got any fried chicken?" } },
+    { "dialogue": { "speaker": "ARETHA", "text": "Best damn chicken in the state." } },
+    { "dialogue": { "speaker": "JAKE", "text": "Bring me four fried chickens and a Coke." } },
+    { "dialogue": { "speaker": "ARETHA", "text": "You want chicken wings or chicken legs?" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Four fried chickens and a Coke." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "And some dry white toast please." } },
+    { "dialogue": { "speaker": "ARETHA", "text": "You all want anything to drink with that?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "No ma'am." } },
+    { "dialogue": { "speaker": "JAKE", "text": "A Coke." } },
+    { "dialogue": { "speaker": "ARETHA", "text": "Be up in a minute." } },
+    { "action": { "description": "She goes back to the kitchen.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "ARETHA",
+        "text": "We got two honkies out there dressed like Hacedic Diamond merchants."
+      }
+    },
+    { "dialogue": { "speaker": "MATT", "text": "Say what?" } },
+    { "dialogue": { "speaker": "ARETHA", "text": "They look like they're from the CIA or something." } },
+    { "dialogue": { "speaker": "MATT", "text": "What they want to eat?" } },
+    {
+      "dialogue": {
+        "speaker": "ARETHA",
+        "text": "The tall one wants white bread, toast, dry with nothing on it."
+      }
+    },
+    { "dialogue": { "speaker": "MATT", "text": "Elwood!" } },
+    {
+      "dialogue": {
+        "speaker": "ARETHA",
+        "text": "And the other one wants four whole fried chickens and a Coke."
+      }
+    },
+    { "dialogue": { "speaker": "MATT", "text": "And Jake! Shit, the Blues Brothers!" } },
+    { "action": { "description": "Matt goes out into the cafe.", "img": "" } },
+    { "dialogue": { "speaker": "MATT", "text": "Hi Jake." } },
+    { "dialogue": { "speaker": "JAKE", "text": "Matt. How you doing?" } },
+    { "dialogue": { "speaker": "MATT", "text": "Hi Elwood. How ya doing? How was Joliet." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Oh it was bad. Thursday night they'd serve a wicked pepper steak."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "BLUE LOU",
+        "text": "Can't be as bad as the cabbage role at the Terra-Phelevo Penn."
+      }
+    },
+    { "dialogue": { "speaker": "MATT", "text": "Or that oatmeal at the Cook County slammer." } },
+    { "dialogue": { "speaker": "BLUE LOU", "text": "Well they're all pretty bad." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Matt, me and Elwood, we're putting the band back together. We need you and Blue Lou."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "MATT",
+        "text": "Oh man. Don't talk that way round here. My old lady, she'll kill me."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Ma'am you gotta understand that this is a lot bigger than any domestic problems you might be experiencing."
+      }
+    },
+    { "dialogue": { "speaker": "ARETHA", "text": "Matt, what the hell is he talking about?" } },
+    { "dialogue": { "speaker": "MATT", "text": "Don't get roused sugar." } },
+    {
+      "dialogue": {
+        "speaker": "ARETHA",
+        "text": "Don't you 'Don't get roused sugar' me! Now you not going back on the road no more, and you ain't playing no more two bit sleazy dives. You're living with me now, and you're not gonna go sliding around with you old white hoodlum friends."
+      }
+    },
+    { "dialogue": { "speaker": "MATT", "text": "But babe, this is Jake and Elwood. The Blues Brothers." } },
+    {
+      "dialogue": { "speaker": "ARETHA", "text": "The Blues Brothers! Shit, they still owe you money, fool!" }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Ma'am, would it make you feel any better if you knew that what we asking Matt here to do was a holy thing?"
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "You see, we're on a mission from God." } },
+    {
+      "dialogue": {
+        "speaker": "ARETHA",
+        "text": "Don't you blaspheme in here! Don't you blaspheme in here! Now this is my man and my restaurant and you two are gonna just walk right out that door, without ya dry white toast, without ya four fried chickens and without Matt guitar Murphy."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "MATT",
+        "text": "Now listen to me. I love you, but I'm the man and your the woman. And I'll make the decisions concerning my life."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ARETHA",
+        "text": "You better think about what you're saying. You better think about the consequences of your actions."
+      }
+    },
+    { "dialogue": { "speaker": "MATT", "text": "Oh shut up woman!" } },
+    { "song": { "title": "Think", "img": "" } },
+    {
+      "action": { "description": "Matt undoes his apron and drops it on the floor as he leaves.", "img": "" }
+    },
+    { "dialogue": { "speaker": "MATT", "text": "Let's boogie." } },
+    { "action": { "description": "Blue Lou looks at them leaving.", "img": "" } },
+    { "dialogue": { "speaker": "ARETHA", "text": "(to Blue Lou) Well, go ahead dammit." } },
+    { "action": { "description": "He leaves.", "img": "" } },
+    { "dialogue": { "speaker": "ARETHA", "text": "Shit!" } },
+    { "location": { "title": "CURL UP AND DYE BEAUTY SALON", "img": "" } },
+    {
+      "action": {
+        "description": "Mystery Woman is reading the instruction booklet for the flame thrower she uses later in the movie.",
+        "img": ""
+      }
+    },
+    { "location": { "title": "RAY'S MUSIC EXCHANGE", "img": "" } },
+    {
+      "action": {
+        "description": "The band looks around the shop. Elwood finds an electric toaster and pulls a slice of white bread out of his jacket.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "RAY",
+        "text": "Pardon me, but we do have a strict policy concerning the handling of the instruments. An employee of Ray's Music Exchange must be present. Now, may I help you?"
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Ray, it's me. Joliet Jake. I once rented some column speakers from you for my band, The Blues Brothers."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "MURPH",
+        "text": "Hey Ray it's me Murph of Murph and the Magic tones. Remember me? I bought three Fender amps."
+      }
+    },
+    { "dialogue": { "speaker": "RAY", "text": "Oh we sell a lot of amplifiers." } },
+    {
+      "dialogue": {
+        "speaker": "MURPH",
+        "text": "Not like these they were beautiful. Upholstered with thick red shag."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "RAY",
+        "text": "Oh right, right. I remember now. As a matter of fact I buy 'em all back for $350 a piece."
+      }
+    },
+    { "dialogue": { "speaker": "MURPH", "text": "350? I paid $800 each not six months ago." } },
+    { "dialogue": { "speaker": "RAY", "text": "Oh well you know depreciation man." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Ray we're here to buy stuff. We need pianos, amps, mikes the works."
+      }
+    },
+    {
+      "action": {
+        "description": "A boy attempts to steal a guitar in the background - Ray pulls out a pistol and fires into the wall above the boys head.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "RAY",
+        "text": "Now go on! Git! It breaks my heart, a boy that young goin' bad."
+      }
+    },
+    { "action": { "description": "Murph notices an electric piano.", "img": "" } },
+    { "dialogue": { "speaker": "MURPH", "text": "Tell me a little about this electric piano, Ray." } },
+    {
+      "dialogue": {
+        "speaker": "RAY",
+        "text": "Ah you have a good eye my man. That's the best in the city of Chicago."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "How much?" } },
+    {
+      "dialogue": {
+        "speaker": "RAY",
+        "text": "Two thousand bucks and it's yours. You can take it home with you. As a matter of fact I'll through the black keys in for free."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Two thousand for this chunk o'shit? Come on Ray." } },
+    {
+      "dialogue": {
+        "speaker": "MURPH",
+        "text": "I mean really Ray, it's used, there's no action left in this keyboard."
+      }
+    },
+    {
+      "action": { "description": "Ray comes out from behind the counter and sits at the piano.", "img": "" }
+    },
+    {
+      "dialogue": {
+        "speaker": "RAY",
+        "text": "Excuse me, I don't think there's anything wrong with the action on this piano."
+      }
+    },
+    { "song": { "title": "Tailfeather", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "OK man, we'll take these axes." } },
+    {
+      "dialogue": {
+        "speaker": "RAY",
+        "text": "Naturally, and as usual, I gotta take an IOU. But I Like Smoking Propane"
+      }
+    },
+    { "location": { "title": "THEY PULL INTO A ROADSIDE RESTURAUNT", "img": "" } },
+    { "action": { "description": "Everyone gets out of the cars", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "You guys go on inside get yourselves a bite. I've gotta make a phone call."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "MR. FABULOUS",
+        "text": "Now Jake, does this phone call concern our first gig?"
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Have I ever lied to you?" } },
+    { "action": { "description": "Jake and Elwood walk away, towards a pay phone.", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "What are we gonna do man? We got no gig." } },
+    { "dialogue": { "speaker": "JAKE", "text": "How much money you got?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "I got a quarter." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "It's enough for a phone call, come on. Jake and Elwood enter the phone booth, together."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "What are you doing Elwood?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "You said we were gonna make a call." } },
+    { "dialogue": { "speaker": "JAKE", "text": "I said I was gonna make a call." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Who you gonna call Jake?" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Remember Maurie Sline?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Sline? The booking agent? What about him?" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Well, he got us some good showcases in the old days. He got us the Morgan Park, he got us the Tic Tock, I got him laid, he owes me."
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Give it a shot." } },
+    {
+      "action": {
+        "description": "Mystery Woman drives up and attacks phone booth with flame thrower. There's a gas tank next to the booth labeled 'No Smoking Propane'. The explosion launches the phone booth into the air, with Jake and Elwood in it, and then smashes to the ground. Car drives off. Coins are scattered all over the ground from the phone.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Hey Jake, there's gotta be at least seven dollars worth of change here."
+      }
+    },
+    { "location": { "title": "NAZI HEAD QUARTERS", "img": "" } },
+    { "action": { "description": "Head Nazi is at desk. 2nd Nazi knocks on door.", "img": "" } },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "Yeah?" } },
+    { "dialogue": { "speaker": "2ND NAZI", "text": "Sir." } },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "What'd you find out?" } },
+    {
+      "dialogue": {
+        "speaker": "2ND NAZI",
+        "text": "Okay. I called a friend at the Motor Vehicle department. That licence plate is like a rash all over the computer. The car belongs to a known traffic menace."
+      }
+    },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "What's his name?" } },
+    {
+      "dialogue": {
+        "speaker": "2ND NAZI",
+        "text": "His name is Elwood Blues. He's got a record a mile long. And, he's a catholic."
+      }
+    },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "Did you get his address?" } },
+    { "dialogue": { "speaker": "2ND NAZI", "text": "Of course. 1060 West Addison." } },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "Let's go." } },
+    {
+      "action": {
+        "description": "They drive out to the address, 1060 West Addison. It turns out to be Wrigley Field, home of the Cubs Baseball Team.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "NAZI LEADER",
+        "text": "(to group) Anybody with that kind of record is gonna make a mistake. I want all party members in the tri state district to monitor the city, county and state police on there CB. Mr. Blues is gonna fuck up. And when he does, he'd better pray the police get to him before we do."
+      }
+    },
+    { "location": { "title": "BOB'S COUNTRY BUNKER", "img": "" } },
+    { "action": { "description": "The band is driving along a dark, quiet road.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "MR. FABULOUS",
+        "text": "Alright man, we've been in this car for three hours now. Where the hell is this place?"
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "I told you it would take a little while to get there." } },
+    { "dialogue": { "speaker": "MURPH", "text": "What's the name of the place?" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Ah... the name of the place..." } },
+    { "action": { "description": "Jake sees a neon sign ahead with the name of a bar on it.", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Is ah... Bob's Country Bunker. Here we are." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Bob's Country Bunker?" } },
+    { "action": { "description": "They arrive.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "MR. FABULOUS",
+        "text": "Jake, the sign says 'Tonight Only The Good Ole Boys'."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Blues Brothers. It should read 'Tonight only the Blues Brothers triumphant return'. Must be some kind of mistake. You guys unload the stuff. Elwood, come with me."
+      }
+    },
+    { "action": { "description": "Jake and Elwood head for the bar.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "CLAIRE",
+        "text": "Well now what can I get you boys? Are ya thirsty, ya hungry, or you just driving through? Maybe you'd like a beer or something a little harder? Hey, you know we happen to make the states best pepper steak."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "No thank you ma'am. We may be sucking back a few beers a little later on. We'll be here all night. You see, we're the band."
+      }
+    },
+    { "dialogue": { "speaker": "CLAIRE", "text": "You are? Oh, gee, that's nice." } },
+    { "dialogue": { "speaker": "CLAIRE", "text": "(to Bob) Hey Bob!! This is the band!" } },
+    { "dialogue": { "speaker": "BOB", "text": "Alright!" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Er... what kind of music do you usually have here?" } },
+    { "dialogue": { "speaker": "CLAIRE", "text": "Oh, we got both kinds. We got Country, and Western." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Jake, are you sure this is the place?" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Yeah, yeah, sure, sure. This is the place." } },
+    { "action": { "description": "Bob walks up to them.", "img": "" } },
+    { "dialogue": { "speaker": "BOB", "text": "Hi. You the Good Ole' Boys?" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "That's us. The rest of the bands out in the parking lot getting our stuff together."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "BOB",
+        "text": "Well I'm sure glad to have you boys here. I'm Bob and this here is my place."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Well its a beautiful place Bob." } },
+    { "action": { "description": "The rest of the band walks in with the gear.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "BOB",
+        "text": "I guess you boys wanna get your steel guitars and everything set up on the stage don't ya. Claire get over there and turn those stage lights on and get these boys going up there."
+      }
+    },
+    {
+      "action": {
+        "description": "The lights go on and Lou notices the stage is screened off with chicken wire.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "LOU", "text": "Chicken wire?" } },
+    {
+      "action": {
+        "description": "Later on, a good size crowd has gathered and rednecks are talking and drinking. Elwood has a song list with requests on it.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": { "speaker": "ELWOOD", "text": "Man, I don't think we know any of the songs on this list." }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Oh this list doesn't mean anything, they're just requests. We're a regular set."
+      }
+    },
+    { "dialogue": { "speaker": "MURPH", "text": "Gimme some lovin. 1, 2..." } },
+    { "dialogue": { "speaker": "JAKE", "text": "1, 2, 3, 4." } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Good evening ladies and gentlemen we're sure glad to be here in Cocomo tonight. We're the Good Ole' Blues Brothers, boys, band from Chicago. I sure hope you like our show. I'm Elwood, this here's my brother Jake."
+      }
+    },
+    { "song": { "title": "Gimme some Lovin", "img": "" } },
+    {
+      "action": {
+        "description": "The crowd start yelling at the band and hurling bottles at the stage like crazy. There's a shower of glass smashing against the chicken wire.",
+        "img": ""
+      }
+    },
+    { "location": { "title": "IN A BACK ROOM", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "BOB",
+        "text": "That ain't no Hank Williams song. He comes out and switches the stage lights off."
+      }
+    },
+    { "dialogue": { "speaker": "MURPH", "text": "I think you hit the lights!" } },
+    { "dialogue": { "speaker": "WILLIE", "text": "Maybe they blew a fuse?" } },
+    { "dialogue": { "speaker": "LOU", "text": "I don't think so man. Those lights are off on purpose." } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Okay. We gotta figure out something these people like and fast."
+      }
+    },
+    { "dialogue": { "speaker": "MURPH", "text": "Hey I got it. Remember the theme from Rawhide?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "The old favourite. Rowdy Yates." } },
+    { "dialogue": { "speaker": "MURPH", "text": "What key?" } },
+    { "dialogue": { "speaker": "DONALD", "text": "A. Blues country key." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Rawhide in A." } },
+    { "song": { "title": "Theme from Rawhide", "img": "" } },
+    {
+      "action": {
+        "description": "The crowd is pacified, the lights come back on. They finish the song.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Theme from the TV show Rawhide. Thankyou." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Now we'd like to do a favourite of the horn section. We hope it's one of yours."
+      }
+    },
+    { "song": { "title": "Stand by your man", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Well folks it's time to call it a night. Do what you feel and keep both feet on the wheel. You don't have to go home but you can't stay here. So till next time..."
+      }
+    },
+    { "song": { "title": "Theme from Rawhide", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "(to the band) Let's get the hell outta here." } },
+    { "action": { "description": "They start packing up, Bob approaches Jake and Elwood.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "BOB",
+        "text": "Shit I'm gonna tell you boys that's some of the best goddamn music we've had in the Country Bunker in a long time."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Well uh... sorry we couldn't remember the Wreck of the Old 97."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "BOB",
+        "text": "Oh, well, hell you guys can learn it next time well ya come back."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Bob, about our money for tonight." } },
+    {
+      "dialogue": {
+        "speaker": "BOB",
+        "text": "That's right. Uh $200, and you boys drank $300 worth of beer."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Uh, well, like, when we first come in the bar lady never charged us for the first round so like we figured you know beer was like complimentary for the band, you know."
+      }
+    },
+    { "dialogue": { "speaker": "BOB", "text": "Uh, hu hu, Uh-Uh." } },
+    { "action": { "description": "Bob shakes his head.", "img": "" } },
+    {
+      "dialogue": { "speaker": "JAKE", "text": "Well, I'll just go and take up a collection from the boys." }
+    },
+    { "dialogue": { "speaker": "BOB", "text": "Well, I tell ya, I sure would appreciate it." } },
+    {
+      "action": {
+        "description": "Jake and Elwood head out to the cars. The band are talking about the gig.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "WILLIE", "text": "I say this trip is no where man. I say we gotta quit." } },
+    {
+      "dialogue": {
+        "speaker": "MURPH",
+        "text": "What? Quit? Well I wish you guys would make up your mind. Otherwise I've gotta call Mr. Ronzinni at the Holiday in and get our old gig back."
+      }
+    },
+    { "dialogue": { "speaker": "STEVE", "text": "Back at the Armada room?" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "(approaches the band) Listen. They want us to pay for the beer we drank, so you guys better split. The next gig is gonna be dynamite, huge, you'll see."
+      }
+    },
+    { "dialogue": { "speaker": "WILLIE", "text": "I say we give the Blues Brothers just one more chance." } },
+    { "dialogue": { "speaker": "DONALD", "text": "Why not? If the shit fits, wear it." } },
+    { "action": { "description": "Getting into he car.", "img": "" } },
+    { "dialogue": { "speaker": "DONALD", "text": "Scoot over goddammit." } },
+    { "action": { "description": "The band leaves.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "The boys look a little upset. Hey man, don't worry, we got a coupla days. We'll get the penguins tax money. I mean look, we got an appointment to see Mr. Sline tomorrow. Everything's gonna be alright. Let's skate."
+      }
+    },
+    { "action": { "description": "An RV pulls into the parking lot.", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Goddammit." } },
+    {
+      "action": {
+        "description": "Jake and Elwood walk towards the RV as the Good Ole Boys are getting out.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Excuse me gentlemen are you the Good Ole Boys?" } },
+    {
+      "dialogue": {
+        "speaker": "LEADER",
+        "text": "Yeah, that's right, I'm Tucker McElroy, lead singer, driver of the Winnebago. Listen I'd like to talk to you son but were running very late."
+      }
+    },
+    {
+      "action": {
+        "description": "Jake holds up a crunched cigarette packet very quickly as though it were an ID bage of some kind.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "My name is Jacob Stein, the American Federation of Musicians Union local 200. I've been sent here to see if you gentlemen are carrying your permits."
+      }
+    },
+    { "dialogue": { "speaker": "LEADER", "text": "Our what?" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Your Union cards. May I see your cards please?" } },
+    {
+      "dialogue": {
+        "speaker": "LEADER",
+        "text": "S'pose we ain't got no union cards and we go in there and start playing anyway. Now what you gonna do about that? You gonna stop us? Stein? You're gonna look pretty funny trying to eat corn on the cob with no fucking teeth."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Listen, let me talk to Bob, the owner, see if we can put your band on contract waivers for tonight. I don't want you to move from this spot. Just let me handle this."
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "We'll uh... we'll talk to Bob." } },
+    {
+      "action": {
+        "description": "Jake and Elwood slowly retreat as Bob comes out to the parking lot.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Get in the car and start her up." } },
+    { "action": { "description": "Elwood goes to the car, Jake goes over to Bob.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "BOB",
+        "text": "You know you boys owe me a lot over money for that beer you drank tonight goddammit."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Bob, we loved playing here tonight. My brother's writing out an American Express travellers cheque to cover the extensive bar tab."
+      }
+    },
+    { "dialogue": { "speaker": "BOB", "text": "Well, I sure would appreciate it." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "I'd better check up, see how he's doing, see I have to sign it too. I usually sit in the car and write it out on the glove compartment lid. Okay?"
+      }
+    },
+    { "action": { "description": "Jake walks towards the car and feels his jacket pockets.", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Need a Pencil!" } },
+    {
+      "action": {
+        "description": "Jake gets in the car, Elwood starts it and they drive off. The Good Ole boys rush over to Bob.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "LEADER", "text": "Were them guys from the union?" } },
+    {
+      "dialogue": {
+        "speaker": "BOB",
+        "text": "Union? What the hell union. Those boys skipped outta here owing me a lot of money for beer."
+      }
+    },
+    { "action": { "description": "Notices their costumes.", "img": "" } },
+    { "dialogue": { "speaker": "BOB", "text": "What the hell are you guys all dressed up for?" } },
+    { "dialogue": { "speaker": "LEADER", "text": "We're the Good Ole Boys!" } },
+    { "dialogue": { "speaker": "BOB", "text": "You're the Good Ole Boys!" } },
+    {
+      "action": {
+        "description": "Jake and Elwood are in the blues mobile - Bob and Good Ole Boys in the Winnebago following in the Distance.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "LEADER", "text": "Shit." } },
+    { "action": { "description": "Bob fires a shot through their back windshield.", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Our lady of blessed acceleration don't fail me now." } },
+    {
+      "action": {
+        "description": "Behind a billboard two troopers, Daniel and Mount, have set up a road watch. Jake and Elwood drive by.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "TROOPER DANIEL",
+        "text": "I don't believe it. It's that shit-box dodge again."
+      }
+    },
+    { "dialogue": { "speaker": "TROOPER MOUNT", "text": "Bastards are ours now." } },
+    {
+      "action": {
+        "description": "Squad car pulls out with sirens blaring and lights flashing, but crashes into the pursuant Winnebago. The RV does a roll and knocks over a fire hydrant. They all climb out of wreckage. The troopers pull gun on the Good Ole Boys.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "TROOPER DANIEL", "text": "Boys, you're in big trouble." } },
+    { "location": { "title": "SAUNA", "img": "" } },
+    { "action": { "description": "Jake, Elwood and Mr. Sline in a sauna.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Maurie, you owe me. We'll play anywhere, anytime for anybody."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Put us in the Double Up Lounge or the Morgan Park Theatre, or the Crystal. We always knock them dead in those joints."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "MAURIE SLINE",
+        "text": "I don't know boys. I just don't know. Times have changed you know what I mean. What are you guys gonna do? The same act? Wearing the same fracuctus suits. You'll scare people away. Don't you guys ever wear blue jeans or jumpsuits like Wayne Cochran or CC riders?"
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Maurie, you gotta come through for us. We need 5000 bucks fast."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "MAURIE",
+        "text": "5000 bucks? Who do you think you are? The Beatles? Hey, you know the size of hall you gotta work to take in that kinda money, huh?"
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "We'll fill any hall in the country." } },
+    { "dialogue": { "speaker": "MAURIE", "text": "You guys familiar with the Palace Hotel Ballroom?" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Never heard of it." } },
+    {
+      "dialogue": {
+        "speaker": "MAURIE",
+        "text": "Nice place up north. Built in the 40's on Lake Wazzapamani. That seats 5000. You guys fill that place, you can make 5000 bucks easy."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Book us for tomorrow night." } },
+    {
+      "dialogue": {
+        "speaker": "MAURIE",
+        "text": "Hold it, hold it. Tomorrow night? What are ya talking about? A gig like that, you gotta prepare the proper exploitation."
+      }
+    },
+    {
+      "dialogue": { "speaker": "ELWOOD", "text": "I know about that stuff, I've been exploited all my life." }
+    },
+    {
+      "dialogue": {
+        "speaker": "MAURIE",
+        "text": "Uh Forget it, there's no way with you guys forget about it."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Say uh, hows Mrs. Sline? I might have some information she'd like to know."
+      }
+    },
+    { "dialogue": { "speaker": "MAURIE", "text": "You blackmailing me Jake?" } },
+    { "dialogue": { "speaker": "JAKE", "text": "If you want to put it that way. Maurie we need this gig!" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "We're on a mission from God!" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "You get us the hall Maurie and I guarantee we'll pack 'em in from miles around. Whaddya say?"
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "MAURIE",
+        "text": "Okay. I'll get ya the Palace Hotel. I'll print up showbills, I'll make the place look real pretty okay? I don't think you guys are gonna gross dollar one, but if you do, I want a taste of the gig, okay?"
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Okay. Let's go boys." } },
+    {
+      "action": {
+        "description": "Camera angle goes wide to show the whole band were also in the sauna. They get up and leave.",
+        "img": ""
+      }
+    },
+    { "action": { "description": "Curtis talks to the kids at the orphanage.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "CURTIS",
+        "text": "Listen, you boys heard me talk about Jake and Elwood. Well now they used to live here just like you. And I used to sing to them just like with you. Tonight, Jake and Elwood are going out to sing and play to raise the money to help you children. Your lazy butts are in this too. So get up on that wagon. We're goin' up north to put the word to the streets."
+      }
+    },
+    {
+      "action": {
+        "description": "Jake and Elwood have attached a giant megaphone to the roof of their car and are driving around town to advertise the gig.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Tonight only, the fabulous Blues Brothers. Rhythm and Blues review. The Palace Hotel Ballroom. Route 16. Lake Wazzapamani. The fabulous Blues Brothers show band and review."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "KIDS",
+        "text": "Check it out, check it out. Tonight only from Chicago the Blues Brothers rhythm and Blues review. One night only, the fabulous..."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "... Blues Brothers show band, and review. You, on the motorcycle!...You two girls, tell your friends."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "(to Elwood) Free parking." } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Free parking. 2 dollar cover charge only folks. That's a lot of entertainment."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "(to Elwood) For two dollars." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "For two dollars." } },
+    {
+      "dialogue": {
+        "speaker": "LITTLE KID",
+        "text": "(speaking to Aretha at the Soul Food Café) Will you please put this in the window lady cos it's real important?"
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Tonight only. From Chicago. the fabulous Blues Brothers rhythm and blues review for your dancing pleasure..."
+      }
+    },
+    { "action": { "description": "Lots of pretty women walking along the lake front.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "... and it's ladies night tonight at the Palace Hotel Ballroom."
+      }
+    },
+    { "action": { "description": "In a men's room, written on the wall...", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "TUCKER MCELROY",
+        "text": "Tonight only the Blues Brothers genuine rhythm and Blues review. Place Hotel Ballroom tonight only."
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "How we doing?" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Well so far we've covered Lake, McHenry and part of Page County."
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Good, let's get to the gig." } },
+    { "action": { "description": "The car chokes and splutters.", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "What is it?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "We're outta gas." } },
+    { "dialogue": { "speaker": "JAKE", "text": "Oh shit." } },
+    { "location": { "title": "PALACE HOTEL BALLROOM", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "MURPH",
+        "text": "Oh a classic. What a room. This place is gonna swing tonight."
+      }
+    },
+    { "dialogue": { "speaker": "MR. FABULOUS", "text": "It's a fucking barn. We'll never fill it." } },
+    {
+      "dialogue": {
+        "speaker": "CURTIS",
+        "text": "We've gotta fill this hall tonight. A lot of young children are depending on it."
+      }
+    },
+    { "dialogue": { "speaker": "STEVE", "text": "Young children? Why, whaddya mean?" } },
+    { "location": { "title": "GAS STATION", "img": "" } },
+    { "dialogue": { "speaker": "OWNER", "text": "We're outta gas." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Yep, mind if we fill er up?" } },
+    {
+      "dialogue": {
+        "speaker": "OWNER",
+        "text": "Nope. I said we're outta gas. Tanker trucks late. Shoulda been here two hours ago. It's always late on Thursdays."
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Well uh... I'll guess we'll have to wait." } },
+    { "dialogue": { "speaker": "OWNER", "text": "Yeah." } },
+    {
+      "action": {
+        "description": "A sports car with a blond female driver pulls up to the station.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "BLONDE",
+        "text": "(to Elwood) Excuse me sir, yes you, could you fill it up with premium please and check under the hood."
+      }
+    },
+    {
+      "action": {
+        "description": "Elwood, stuffing his jacket full of five-finger discount fan belts, looks at the blonde and points to himself as if to say 'Who me?'.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "BLONDE", "text": "Yes, you!" } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Sure... you uh want I should uh... wash the dead bugs of the windshield?"
+      }
+    },
+    { "dialogue": { "speaker": "BLONDE", "text": "Oh no don't worry. I'm in kind of a hurry." } },
+    { "location": { "title": "BACK AT THE PALACE HOTEL", "img": "" } },
+    { "dialogue": { "speaker": "CURTIS", "text": "Where in the hell are they?" } },
+    { "location": { "title": "THE GAS STATION", "img": "" } },
+    {
+      "dialogue": { "speaker": "ELWOOD", "text": "So uh... maybe you'd like to uh come by and see the show?" }
+    },
+    {
+      "dialogue": {
+        "speaker": "BLONDE",
+        "text": "Oh, I'm awfully sorry, but I do have a prior dinner engagement."
+      }
+    },
+    { "action": { "description": "The tanker pulls in.", "img": "" } },
+    { "location": { "title": "POLICE STATION", "img": "" } },
+    { "action": { "description": "Someone hands in a flyer with for the gig.", "img": "" } },
+    { "dialogue": { "speaker": "MR. MERCER", "text": "Thanks Marvin." } },
+    { "action": { "description": "He reads the poster, talks into the phone.", "img": "" } },
+    { "dialogue": { "speaker": "MR. MERCER", "text": "Debbie, get me troopers Daniel and Mount." } },
+    { "location": { "title": "PALACE HOTEL BALLROOM", "img": "" } },
+    {
+      "action": {
+        "description": "Bob and The Good Ole Boys are in the audience carrying baseball bats.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "BOB", "text": "I don't see those Blues Brothers." } },
+    { "dialogue": { "speaker": "TUCKER", "text": "We'll wait." } },
+    { "action": { "description": "Meanwhile, back at the gas station.", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Okay, you're all set. That'll be... 94 dollars." } },
+    { "dialogue": { "speaker": "BLONDE", "text": "Here's $95. Thank you Elwood." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Okay and uh.. that's a dollar change." } },
+    { "dialogue": { "speaker": "BLONDE", "text": "Oh, keep the change." } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Oh thanks. Uh... so look uh, if you're date don't work out tonight for any reason uh, there's a motel up on the interstate, uh maybe we could say uh meet... around uh midnight?"
+      }
+    },
+    { "dialogue": { "speaker": "BLONDE", "text": "I'll think about it Elwood, okay?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Yeah. Bye." } },
+    {
+      "action": {
+        "description": "She drives off. Jake looks at his watch and realises the time.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Son-of-a-bitch." } },
+    { "action": { "description": "He hits Elwood.", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Come on!" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Owww!" } },
+    { "location": { "title": "BACK IN THE PALACE HOTEL BALLROOM", "img": "" } },
+    { "action": { "description": "The audience is becoming impatient.", "img": "" } },
+    { "dialogue": { "speaker": "WILLIE", "text": "I always liked to perform for angry mobs." } },
+    { "dialogue": { "speaker": "CURTIS", "text": "Can't quit now." } },
+    { "dialogue": { "speaker": "MURPH", "text": "What can they be doing?" } },
+    {
+      "action": {
+        "description": "Jake and Elwood park the car in a storm drain tunnel near the ballroom.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Oh. My head hurts. That nitrates a mean wine." } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "You'd better get right pal, we've got a show to do. Then we gotta figure out some way to collect the gate money and get it to the Cook county Assessors office, as soon as they open in the morning."
+      }
+    },
+    { "location": { "title": "BACK AT THE PALACE HOTEL BALLROOM", "img": "" } },
+    { "action": { "description": "The audience is chanting:", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "AUDIENCE",
+        "text": "We want the show... We want the show... We want the show.."
+      }
+    },
+    { "dialogue": { "speaker": "MR. FABULOUS", "text": "Gentlemen, I'm leaving." } },
+    { "dialogue": { "speaker": "WILLIE", "text": "Damm. We were so close." } },
+    { "dialogue": { "speaker": "CURTIS", "text": "Hey, you guys know Minnie the Moocher?" } },
+    { "dialogue": { "speaker": "MURPH", "text": "I knew a hooker once named Minnie Mizola?" } },
+    { "dialogue": { "speaker": "CURTIS", "text": "No, the song Minnie the Moocher." } },
+    { "dialogue": { "speaker": "STEVE", "text": "Yeah. So what?" } },
+    { "dialogue": { "speaker": "CURTIS", "text": "Hit it." } },
+    { "song": { "title": "Minnie the Moocher", "img": "" } },
+    {
+      "action": {
+        "description": "Throughout the song, Jake and Elwood sneak up to the hotel. They come across the Winnebago. Elwood enters and glues down the accelerator.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "This is glue. Strong stuff!" } },
+    { "action": { "description": "The song ends. Police officers arrive in the audience.", "img": "" } },
+    { "dialogue": { "speaker": "TROOPER DANIEL", "text": "Okay. Let's take them." } },
+    {
+      "dialogue": {
+        "speaker": "MR. MERCER",
+        "text": "Now wait a minute. We haven't even heard these boys sing. Alright?"
+      }
+    },
+    { "dialogue": { "speaker": "TROOPER DANIEL", "text": "Alright. They're not going no place." } },
+    {
+      "dialogue": {
+        "speaker": "MR. MERCER",
+        "text": "Alright. Cover all exits. Let's go. Come on hurry up. Move it."
+      }
+    },
+    {
+      "action": {
+        "description": "Meanwhile, Jake and Elwood get into the Ballroom through the ladies room amongst lot's of screaming.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Excuse us." } },
+    { "dialogue": { "speaker": "JAKE", "text": "Good evening ladies." } },
+    { "location": { "title": "IN THE AUDIENCE", "img": "" } },
+    {
+      "dialogue": { "speaker": "MR. MERCER", "text": "(to Troopers) Who wants an orange whip? Orange whip?" }
+    },
+    { "dialogue": { "speaker": "MR. MERCER", "text": "(to a nearby Officer) Three orange whips." } },
+    { "action": { "description": "Jake and Elwood make an Entrance.", "img": "" } },
+    { "location": { "title": "ON STAGE", "img": "" } },
+    {
+      "action": {
+        "description": "Curtis spots Jake and Elwood and gets the all clear to start the intro.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "CURTIS",
+        "text": "And now ladies and gentlemen, it is the distinct pleasure of the management to present to you, the evening's star attraction. Here they are back after their exclusive three year tour of Europe, Scandinavia and the sub continent. Won't you welcome from Calumet City Illinios, the show band of Joliet Jake and Elwood Blues... The Blues Brothers."
+      }
+    },
+    {
+      "action": {
+        "description": "Jake and Elwood enter the stage during the brass section of the intro music, and and Jake does a cartwheel and lands besides Elwood right on cue with the last beat of the song... the audience is deathly quiet.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "1, 2, 1, 2, 3, 4." } },
+    { "action": { "description": "Bands starts playing 'Everybody Needs Somebody to Love'.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "We're so glad to see so many of you lovely people here tonight. We would especially like to welcome all the representatives of Illinios' law enforcement community who have chosen to join us here at the Place Hotel Ballroom at this time. We certainly hope you all enjoy the show and remember people that no matter who you are and what you do to live, thrive and survive, there's still some things that make us all the same. You, me, them everybody, everybody."
+      }
+    },
+    { "song": { "title": "Everybody Needs Somebody to Love", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Thank you. That was for Wilson Picket. This is dedicated to the late great magic sound."
+      }
+    },
+    { "song": { "title": "Sweet Home Chicago", "img": "" } },
+    { "location": { "title": "THE GREAT ESCAPE", "img": "" } },
+    {
+      "action": {
+        "description": "Half way through the 'Sweet Home Chicago', Jake and Elwood go off back stage. They are met there by a record agent.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "It looks like the Mafia is out there." } },
+    { "dialogue": { "speaker": "AGENT", "text": "You guys are great. I've gotta record you." } },
+    { "dialogue": { "speaker": "JAKE", "text": "Bullshit!" } },
+    {
+      "dialogue": {
+        "speaker": "AGENT",
+        "text": "Bullshit? I don't bullshit. I'm president of Clarion records the largest recording company on the eastern sea board."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "So what?" } },
+    {
+      "dialogue": {
+        "speaker": "AGENT",
+        "text": "Here's 10,000 dollars. An advance on your first recording session."
+      }
+    },
+    { "action": { "description": "He hands over the cash.", "img": "" } },
+    { "dialogue": { "speaker": "AGENT", "text": "Is it a deal?" } },
+    { "dialogue": { "speaker": "JAKE", "text": "Yeah, sure it's a deal." } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Yeah, yeah, sure.. . sure it's a deal. Ah listen all these cops out here, they're sorta waiting for us. We gotta get outta here without nobody seeing us. Do you know a back door outta this place?"
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "AGENT",
+        "text": "Sure. I used to be head bouncer here back in the 70's. There's an electrical service duct right behind your drummers riser."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Listen, do us a favour. Take 1400 dollars and give it to Rays Music Exchange in Calumed city. Give the rest to the band."
+      }
+    },
+    { "dialogue": { "speaker": "AGENT", "text": "You got it." } },
+    { "dialogue": { "speaker": "JAKE", "text": "Thanks. Bye." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Bye." } },
+    { "dialogue": { "speaker": "AGENT", "text": "Bye." } },
+    {
+      "action": {
+        "description": "Jake and Elwood crawl on to the stage and get into the service duct. Jake get's Willies attention.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Me and Elwood are gonna make a break for it. You and the band keep playing."
+      }
+    },
+    { "location": { "title": "IN THE AUDIENCE", "img": "" } },
+    { "dialogue": { "speaker": "TROOPER DANIEL", "text": "Something's wrong." } },
+    { "dialogue": { "speaker": "MR. MERCER", "text": "Where's Jake?" } },
+    { "dialogue": { "speaker": "TUCKER", "text": "(to Good Ole Boys) Where'd those Blues Brothers go?" } },
+    { "location": { "title": "IN THE SEWER", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "I sure hope this thing leads some place." } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "Elwood. We're gone man. The 'Mystery Woman' loosens off a round of machine gun fire. They hit the ground."
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Who is that girl?" } },
+    {
+      "dialogue": {
+        "speaker": "WOMAN",
+        "text": "Well Jake. You like just fine down there, slithering in the mud like vermin."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "(to Elwood) No problem." } },
+    { "dialogue": { "speaker": "WOMAN", "text": "You're not gonna get away from me this time." } },
+    { "action": { "description": "She fires again... still missing them.", "img": "" } },
+    { "location": { "title": "IN THE BALLROOM", "img": "" } },
+    { "action": { "description": "Mr. Mercer hears the gunshots.", "img": "" } },
+    { "dialogue": { "speaker": "MR. MERCER", "text": "(to officers) Check that out. Let's go. Come on." } },
+    { "location": { "title": "BACK IN THE SEWER", "img": "" } },
+    { "dialogue": { "speaker": "JAKE", "text": "(to Woman) It's good to see you sweetheart." } },
+    {
+      "dialogue": {
+        "speaker": "WOMAN",
+        "text": "You contemptible pig. I remained celebate for you. I stood at the back of a cathedral, waiting in celibacy for you, with 300 friends and relatives in attendance. My uncle hired the best Romanian caterer in the state. To obtain the seven limousines for the wedding party my father used up his last favours with Mad Pete Trollo. So for me, for my mother, my grandmother, my father, my uncle and for the common good, I must now kill you and your brother."
+      }
+    },
+    { "action": { "description": "Jake gets up and slowly walks towards her.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "(falling to his knees before her) Oh please don't kill us. Please, please don't kill us. You know I love ya baby, I wouldn't leave ya. It wasn't my fault."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "WOMAN",
+        "text": "You miserable slug. You think you can talk you're way out of this? You betrayed me."
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "JAKE",
+        "text": "No, I didn't. Honest. I ran outta gas. I had a flat tire. I didn't have enough money for cab fare. My tux didn't come back from the cleaners. An old friend came in from outta town. Someone stole my car. There was an earthquake, a terrible flood, locust's. It wasn't my fault!! I swear to God!!"
+      }
+    },
+    { "dialogue": { "speaker": "WOMAN", "text": "Oh Jake, Jake, honey." } },
+    {
+      "action": {
+        "description": "Jake embraces her in a passionate kiss, then drops her in the mud.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "(to Elwood) Let's go." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "(to the Woman) Take it easy." } },
+    {
+      "action": {
+        "description": "They run down the passage to the car. She follows in the distance.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "It's a 106 miles to Chicago. We got a full tank of gas, half a pack of cigarettes, it's dark and we're wearing sunglasses."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "Hit it!" } },
+    {
+      "action": {
+        "description": "The Woman runs out of the duct and fires at the moving car. The policemen above hear the shots and also start shooting at the car.",
+        "img": ""
+      }
+    },
+    { "location": { "title": "THE GREAT CAR CHASE", "img": "" } },
+    {
+      "action": {
+        "description": "Jake and Elwood are in front in their car. About 50 or so squad cars and the Good Ole Boys Winnebago is following.",
+        "img": ""
+      }
+    },
+    { "location": { "title": "IN THE WINNEBAGO", "img": "" } },
+    { "dialogue": { "speaker": "BOB", "text": "Shit man! Can't this damm thing go any faster than this?" } },
+    { "dialogue": { "speaker": "TUCKER", "text": "Ah, Bob, I think I got a little problem." } },
+    { "dialogue": { "speaker": "BOB", "text": "Goddamn boy!" } },
+    { "action": { "description": "They accelerate past all cars including Jake and Elwoods.", "img": "" } },
+    { "dialogue": { "speaker": "TUCKER", "text": "Shit!" } },
+    { "dialogue": { "speaker": "ALL", "text": "Argh!!!" } },
+    {
+      "action": {
+        "description": "The van drives off the highway, through a shed and into the water.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "TUCKER", "text": "(to Bob) Don't you say a fucking word." } },
+    { "location": { "title": "VIEW OF BLONDE WAITING AT MOTEL", "img": "" } },
+    { "action": { "description": "The sun starts to rise.", "img": "" } },
+    { "location": { "title": "POLICE STATION – CHICAGO", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "RADIOER",
+        "text": "All units we have a signal ten seven niner, officers are in pursuit a black and white, 1974 dodge sedan southbound on four-seven. Responds to signal ten seven niner. Occupants of vehicle on Joliet Jake Blues, one Elwood Blues. Consider them extremely dangerous."
+      }
+    },
+    {
+      "action": {
+        "description": "In Nazi Head Quarters, the head Nazi hears police radio broadcast.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "Perpen-Fuhrer!" } },
+    { "location": { "title": "JAKE AND ELWOOD'S CAR", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Hey, Jake, Jake, I gotta pull over." } },
+    { "location": { "title": "HEAD SQUAD CAR", "img": "" } },
+    { "dialogue": { "speaker": "TROOPER MOUNT", "text": "South bound on state highway 47." } },
+    {
+      "action": {
+        "description": "Elwood drives down an embankment, squad cars follow and all crash.",
+        "img": ""
+      }
+    },
+    {
+      "action": {
+        "description": "Head Squad car recovers and steers out of control, goes flying up the embankment which acts as a ramp...the police car flies through the air and lands in the side of a truck.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "MR. MERCER", "text": "Hi. Wanna hand me the mike? Thanks a lot." } },
+    {
+      "dialogue": {
+        "speaker": "MR. MERCER",
+        "text": "(into the mic) Hi, this is car, ah...what number are we?"
+      }
+    },
+    { "dialogue": { "speaker": "OFFICER MOUNT", "text": "Five, Five." } },
+    {
+      "dialogue": { "speaker": "MR. MERCER", "text": "(into the mike) Car fifty five. Ah, we're in a truck!" }
+    },
+    { "location": { "title": "BACK AT THE CHICAGO POLICE STATION", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "RADIOER",
+        "text": "Signal ten seven niner still engaged. Vehicle travelling south bound. Approaching Chicago city limits. Commander advisers will contact Chicago precincts for a local intercept. Maintain pursuit."
+      }
+    },
+    { "action": { "description": "Hundreds of officers merge on the city.", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "RADIOER",
+        "text": "Use of unnecessary violence in the apprehension of the Blues Brothers has been approved."
+      }
+    },
+    { "location": { "title": "JAKE AND ELWOOD MAKE IT TO CHICAGO", "img": "" } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "Well this is definitely Lower Wacker drive. If my estimations are correct, we should be very close to the honourable Richard J. Daly plaza."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "That's were they got that Picasso." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Yep." } },
+    {
+      "action": {
+        "description": "They drive on, being chased by Chicago squad cars. Elwood swerves to miss a car, the squad cars don't and all crash into one another.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "OFFICER", "text": "Son-of-a-bitch." } },
+    { "action": { "description": "Starts firing, other officers follow suit.", "img": "" } },
+    { "action": { "description": "Jake and Elwood escape.", "img": "" } },
+    {
+      "action": {
+        "description": "Two Nazi cars hide in an alley way. Jake and Elwood drive past.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "There they are." } },
+    { "action": { "description": "The Nazi cars pursues Jake and Elwood.", "img": "" } },
+    { "action": { "description": "A loud clunk is heard in Jake and Elwood's car.", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Oh no!" } },
+    { "dialogue": { "speaker": "JAKE", "text": "What the fuck was that?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "The motor. Thrown a rod." } },
+    { "dialogue": { "speaker": "JAKE", "text": "Is that serious?" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Yep." } },
+    {
+      "action": {
+        "description": "They drive up a bridge through the smoke coming from their motor.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "NAZI LEADER", "text": "Faster!" } },
+    {
+      "action": {
+        "description": "At the last minute they see the end of an unfinished bridge. Elwood stops the car and then it backflips over the chasing Nazi car.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "NAZI", "text": "Holy shit!" } },
+    {
+      "action": {
+        "description": "The Nazi car continues to accelerate and launches off the bridge.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "NAZI", "text": "I've always loved you." } },
+    {
+      "action": {
+        "description": "They crash into the street making a big hole. Jake and Elwood's car jumps the hole, the pursuing Nazi car falls into it.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "(points to a building) There it is." } },
+    {
+      "action": {
+        "description": "Elwood parks the car just outside the door. They get out and the car falls to bits. Elwood stares at in disbelief.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "(hitting Elwood) Come on!" } },
+    { "location": { "title": "RICHARD J. DALEY PLAZA", "img": "" } },
+    {
+      "action": {
+        "description": "They enter the building, close the doors and pile furniture in front of them. They then run up to an information counter.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "(to an officer at the information desk) Sir. Where's the Office of the Assessor of Cook County?"
+      }
+    },
+    { "dialogue": { "speaker": "OFFICER", "text": "Down the hall, turn right, take the elevator to 1102." } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Thank you sir." } },
+    {
+      "action": {
+        "description": "Jake and Elwood race off. Outside thousands of people are trying to get in. Jake and Elwood enter the elevator. A squad of people eventually get into the building and race up to the information desk.",
+        "img": ""
+      }
+    },
+    {
+      "dialogue": {
+        "speaker": "SQUAD LEADER",
+        "text": "Excuse me, did you see two guys come in here, black suits black hats one carrying a briefcase?"
+      }
+    },
+    { "dialogue": { "speaker": "OFFICER", "text": "Yeah, I just sent them down there." } },
+    { "dialogue": { "speaker": "SQUAD LEADER", "text": "Thank you." } },
+    {
+      "action": { "description": "The squad races towards the elevator and then up the stairs.", "img": "" }
+    },
+    { "action": { "description": "Jake and Elwood make it to the right floor.", "img": "" } },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Hold the door." } },
+    {
+      "action": {
+        "description": "Jake steps in front of the door. Elwood destroys the elevators controls.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "ELWOOD", "text": "Let's go." } },
+    {
+      "action": {
+        "description": "They make their way towards the officer. Stacking furniture in front of each door. They arrive at the office to a sign 'Back in five minutes'. They wait until someone in the office approaches them.",
+        "img": ""
+      }
+    },
+    { "dialogue": { "speaker": "ASSESSOR", "text": "May I help you?" } },
+    { "dialogue": { "speaker": "JAKE", "text": "This is where they pay the taxes, right?" } },
+    { "dialogue": { "speaker": "ASSESSOR", "text": "Right." } },
+    {
+      "dialogue": {
+        "speaker": "ELWOOD",
+        "text": "This money is for the years assessment on the St. Helen of the Blessed Shroud orphanage in Calumed city, Illinios."
+      }
+    },
+    { "dialogue": { "speaker": "JAKE", "text": "5000 bucks, it's all there pal." } },
+    {
+      "action": { "description": "The squad approaches the right floor but the door is blocked.", "img": "" }
+    },
+    { "dialogue": { "speaker": "OFFICER", "text": "Stand back... fire!" } },
+    { "action": { "description": "They open fire on the door.", "img": "" } },
+    { "dialogue": { "speaker": "ASSESSOR", "text": "And here is your receipt." } },
+    { "action": { "description": "The squad catches up with Jake and Elwood and cuff them.", "img": "" } },
+    { "location": { "title": "JAIL – MESS HALL", "img": "" } },
+    { "action": { "description": "The whole band is on a stage in the jail.", "img": "" } },
+    { "song": { "title": "Jailhouse Rock", "img": "" } },
+    { "location": { "title": "FADE OUT", "img": "" } },
+    { "location": { "title": "THE END", "img": "" } }
+  ]
+}
